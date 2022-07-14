@@ -7,6 +7,7 @@ https://chat.whatsapp.com/KsEBnZbZMZL1IzFSPMWxCU
 
 * [HTTP Cannary](https://apkcombo.com/id/httpcanary-http-sniffer-capture-analysis/com.guoshi.httpcanary)
 
+* [Stumble Guys Ver 0.37](https://download.apkcombo.com/com.kitkagames.fallbuddies/Stumble%20Guys_0.37_apkcombo.com.apk?ecp=Y29tLmtpdGthZ2FtZXMuZmFsbGJ1ZGRpZXMvMC4zNy82NC44MmYzMmU5OTI4OGQxZmZlMWJjZDVlYWI5OTMxMDg5ZDU4NWQ1MjU2LmFwaw==&iat=1657779733&sig=43a773acf20492861a889389def678a1&size=126096660&from=cf&version=old&lang=id&fp=87dfc233e0d4f04418697dc241355f67&ip=140.213.182.161)
 
 ## How to get auth token ?
 
