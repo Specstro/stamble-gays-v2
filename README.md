@@ -5,7 +5,7 @@ https://chat.whatsapp.com/KsEBnZbZMZL1IzFSPMWxCU
 
 ## Required Apps
 
-* [HTTP Cannary](https://apkcombo.com/id/httpcanary-http-sniffer-capture-analysis/com.guoshi.httpcanary)
+* [HTTP Cannary](https://download.apkcombo.com/com.guoshi.httpcanary/HttpCanary_3.3.6_apkcombo.com.apk?ecp=Y29tLmd1b3NoaS5odHRwY2FuYXJ5LzMuMy42LzU4LmJiM2RhNTU5NmMxMTA2OWNhMWQyZGFjNmYwM2MxY2MyMDAyYjhiZjYuYXBr&iat=1657779804&sig=4354cf587ad4473af63b197004d34cbf&size=5218787&from=cf&version=latest&lang=id&fp=87dfc233e0d4f04418697dc241355f67&ip=140.213.182.161)
 
 * [Stumble Guys Ver 0.37](https://download.apkcombo.com/com.kitkagames.fallbuddies/Stumble%20Guys_0.37_apkcombo.com.apk?ecp=Y29tLmtpdGthZ2FtZXMuZmFsbGJ1ZGRpZXMvMC4zNy82NC44MmYzMmU5OTI4OGQxZmZlMWJjZDVlYWI5OTMxMDg5ZDU4NWQ1MjU2LmFwaw==&iat=1657779733&sig=43a773acf20492861a889389def678a1&size=126096660&from=cf&version=old&lang=id&fp=87dfc233e0d4f04418697dc241355f67&ip=140.213.182.161)
 
