@@ -1,3 +1,8 @@
+## Attention
+
+If U Want Use This Script Use Stumble Guys Ver 0.37 , why? Cause 0.39 can't take auth
+
+
 ## Social Media
 
 Whatsapp Group:
