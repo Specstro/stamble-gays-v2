@@ -3,9 +3,12 @@
 Whatsapp Group:
 https://chat.whatsapp.com/KsEBnZbZMZL1IzFSPMWxCU
 
-## How to get auth token ?
+## Required Apps
 
-* Download : [HTTP Cannary](https://apkcombo.com/id/httpcanary-http-sniffer-capture-analysis/com.guoshi.httpcanary)
+* [HTTP Cannary](https://apkcombo.com/id/httpcanary-http-sniffer-capture-analysis/com.guoshi.httpcanary)
+
+
+## How to get auth token ?
 
 1. Install HTTP Cannary or any Traffic Intercept apk to your phone
 2. Intercept Stumble Guys ! Then play until you got 1 crown 
